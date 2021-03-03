@@ -1,0 +1,22 @@
+Project Summary
+Company Name: Sportyshoes
+Project Prototype: SportyShoes.com
+Application Prototype – An ecommerce site for online shoe store,
+Specifications:
+Eclipse: An IDE with J2EE & Apache Tomcat Server 9.0
+JAVA: A programming language to develop the prototype
+MySQL: To create tables for admin and user for CRUD operations.
+Maven, Spring & Hibernate: To create web enabled Maven project with Apache Tomcat, Spring & Hibernate frameworks.
+Git: To connect & push files from the local system to GitHub
+GitHub: To store the application code and track versions
+Scrum: Agile framework used for Sprint Planning to product release
+Search & Sort techniques: Linear Search & Linear Sort
+Algorithms:
+1. Start
+2. Navigate to the site for buying shoes (product items)
+3. Search for producct items (shoes).
+4. Identify shoes for purchse which will be put in cart,
+5. If the customer need to buy more items then go back to step 2,
+6. Otherwise go to checkout process and complete the transaction.
+7. Make Payment (Card #, Pin or CVV #) is Successful, then get the confirmation with purchase receipt.
+8. Stop
